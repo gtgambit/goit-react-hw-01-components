@@ -32,6 +32,7 @@ const Profile = ({
           <span className={s.quantity}>{likes}</span>
         </li>
       </ul>
+      <a href="http://localhost:5173/" target="_blank">Click to open in a new tab</a>
     </div>
   );
 };
