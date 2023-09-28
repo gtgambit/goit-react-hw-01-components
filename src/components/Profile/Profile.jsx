@@ -33,6 +33,7 @@ const Profile = ({
         </li>
       </ul>
       <a href="http://localhost:5173/" target="_blank" rel="noopener noreferrer">Open local</a>
+      <a href="http://localhost:5173/dsadsa" target="_blank" rel="noopener noreferrer">Open local</a>
     </div>
   );
 };
