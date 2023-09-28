@@ -11,6 +11,7 @@ import TransactionHistory from './components/TransactionHistory/TransactionHisto
 export const App = () => {
   return (
     <div>
+      <a href="http://localhost:5173/" target="_blank">New TAB</a>
       <Profile profile={userData}></Profile>
       <Statistic title="Upload stats" statistic={statisticData} />
       <Statistic statistic={statisticData}></Statistic>
